@@ -8,14 +8,6 @@ A Food Explorer é uma plataforma de interface de usuário que se concentra em e
 
 - Obs: A conexão é lenta devido a hospedagem gratuita, por favor aguarde.
 
-
-## Screenshot
-
- <h1 align="center">
-  <img alt="Food Explorer" title="Food Explorer" src="/src/assets/images/food-explorer.png" />
-</h1>
-
-
 ## Descrição do Projeto
 
 <p align="center">Este projeto foi criado como o desafio final do curso Explorer da Rocketseat.</p>
